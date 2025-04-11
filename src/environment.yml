@@ -1,0 +1,23 @@
+name: curious-context
+channels:
+  - conda-forge
+  - huggingface
+  - pytorch
+dependencies:
+  - python=3.8
+  - flask=2.0.1
+  - flask-cors=3.0.10
+  - pytorch=2.0.0
+  - transformers=4.32.0
+  - sentence-transformers=2.3.0
+  - hnswlib=0.7.0
+  - tokenizers=0.13.3
+  - chromadb=0.3.26
+  - tqdm=4.65.0
+  - pybind11>=2.10.0
+  - numpy>=1.20.0
+  - pip
+  - rust
+  - compilers
+  - c-compiler
+  - cxx-compiler 

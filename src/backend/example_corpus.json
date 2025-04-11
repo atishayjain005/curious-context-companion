@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "Introduction to Natural Language Processing",
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "description": "Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.",
+    "text": "Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation."
+  },
+  {
+    "title": "Machine Learning",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "description": "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead.",
+    "text": "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to perform the task."
+  },
+  {
+    "title": "Deep Learning",
+    "url": "https://en.wikipedia.org/wiki/Deep_learning",
+    "description": "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning.",
+    "text": "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. Deep learning architectures such as deep neural networks, deep belief networks, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance."
+  },
+  {
+    "title": "Attention (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Attention_(machine_learning)",
+    "description": "In artificial neural networks, attention is a technique that mimics cognitive attention. The effect enhances some parts of the input data while diminishing other parts.",
+    "text": "In artificial neural networks, attention is a technique that mimics cognitive attention. The effect enhances some parts of the input data while diminishing other parts. The mechanism selectively concentrates on a few relevant things, while ignoring the masses of information rushing at it. For example, if you are searching for specific information on a website, you tend to focus on the relevant parts and ignore the ads or other irrelevant content."
+  },
+  {
+    "title": "Transformer (machine learning model)",
+    "url": "https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)",
+    "description": "A transformer is a deep learning model that adopts the mechanism of attention, differentially weighing the significance of each part of the input data.",
+    "text": "A transformer is a deep learning model that adopts the mechanism of attention, differentially weighing the significance of each part of the input data. It is used primarily in the field of natural language processing (NLP) and in computer vision (CV). Like recurrent neural networks (RNNs), transformers are designed to handle sequential input data, such as natural language, for tasks such as translation and text summarization. However, unlike RNNs, transformers do not necessarily process the data in order. Rather, the attention mechanism provides context for any position in the input sequence."
+  }
+]
